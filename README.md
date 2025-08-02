@@ -14,4 +14,6 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
+Step 3:
+
 http://localhost:82
